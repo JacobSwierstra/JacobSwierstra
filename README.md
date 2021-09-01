@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JacobSwierstra
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning C++ and data structures
+- 💞️ I’m looking for a summer internship.
+- 📫 How to reach me jacob.swierstra@gmail.com
